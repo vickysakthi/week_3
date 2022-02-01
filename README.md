@@ -1,2 +1,2 @@
-1#Graphics Animation Of The Random Walk
+# Graphics Animation Of The Random Walk
 t
